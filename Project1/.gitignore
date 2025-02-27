@@ -1,15 +1,30 @@
-*.iml
+# Android Studio
 .gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
 /build
 /captures
-.externalNativeBuild
-.cxx
+# User-specific files
+.idea
 local.properties
+*.iml
+# OS-specific files
+.DS_Store
+Thumbs.db
+# Log files
+*.log
+# Android Studio specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+# Android specific
+# Uncomment the following line to ignore all the local.properties files.
+# local.properties
+# Gradle specific files
+.gradle/
+# Android Studio specific
+.idea/
+# Keystore files
+*.jks
+*.keystore
+# JetBrains IDEs
+.idea/
