@@ -1,6 +1,6 @@
 # Android Development Course Projects
 
-This repository contains projects developed as part of the [Android O Mobil Uygulama Dersi (Kotlin & Java)](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/) course by **Kadir Samancıoğlu** on Udemy. In these projects, I've learned how to build Android applications using Kotlin and Java, as well as how to interact with Android Studio and emulators.
+This repository contains projects developed as part of the [Android O Mobil Uygulama Dersi (Kotlin & Java)](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/) course by **Atıl Samancıoğlu** on Udemy. In these projects, I've learned how to build Android applications using Kotlin and Java, as well as how to interact with Android Studio and emulators.
 
 I would like to thank **Atıl Samancıoğlu** for creating this amazing course, which has helped me understand the fundamentals of Android development and get hands-on experience building apps.
 
@@ -17,8 +17,7 @@ Here is a list of the projects developed during this course:
   - Basic Android layout design
 
 
-## 🛠️ Technologies Used
-- Kotlin
+## 🛠️ Technologies Used  
 - Java
 - Android Studio
 - Android Emulator
